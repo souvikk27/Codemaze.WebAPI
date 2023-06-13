@@ -1,0 +1,15 @@
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\bin\Debug\net6.0\LoggerService.deps.json
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\bin\Debug\net6.0\LoggerService.dll
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\bin\Debug\net6.0\LoggerService.pdb
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\bin\Debug\net6.0\Contracts.dll
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\bin\Debug\net6.0\Contracts.pdb
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\obj\Debug\net6.0\LoggerService.csproj.AssemblyReference.cache
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\obj\Debug\net6.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfoInputs.cache
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\obj\Debug\net6.0\LoggerService.AssemblyInfo.cs
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CoreCompileInputs.cache
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\obj\Debug\net6.0\LoggerService.csproj.CopyComplete
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\obj\Debug\net6.0\LoggerService.dll
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\obj\Debug\net6.0\refint\LoggerService.dll
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\obj\Debug\net6.0\LoggerService.pdb
+D:\Code\.NET\CodeMaze.WebAPI\LoggerService\obj\Debug\net6.0\ref\LoggerService.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "b9miHsntpIjCS3xgh23rDQs16v2guhSSyPOGsmwdlrM=",
+  "Source": "CodeMaze.WebAPI",
+  "BasePath": "_content/CodeMaze.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
