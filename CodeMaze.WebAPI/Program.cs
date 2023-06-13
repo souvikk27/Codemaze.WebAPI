@@ -13,6 +13,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.ConfigureCors();
 builder.Services.ConfigureIISIntegration();
 builder.Services.ConfigureLoggerService();
+builder.Services.ConfigureRepositoryManager();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
