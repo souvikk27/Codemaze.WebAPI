@@ -109,3 +109,5 @@
 /CodeMaze.WebAPI/internal_logs/internallog.txt
 /LoggerService/obj/project.nuget.cache
 /LoggerService/obj/project.assets.json
+*.targets
+*.props
