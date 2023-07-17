@@ -38,7 +38,7 @@ namespace CodeMaze.WebAPI.Extensions
             services.AddScoped<IServiceManager, ServiceManager>();
 
         public static void ConfigureSqlContext(this IServiceCollection services, IConfiguration configuration) =>
-            services.AddDbContext<RepositoryContext>(option => 
+            services.AddDbContext<RepositoryContext>(option =>
                 option.UseSqlServer(configuration.GetConnectionString("sqlConnection")));
     }
 }
