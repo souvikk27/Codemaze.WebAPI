@@ -1,4 +1,6 @@
 using CodeMaze.WebAPI.Extensions;
+using Contracts;
+using LoggerService;
 using Microsoft.AspNetCore.HttpOverrides;
 using NLog;
 
@@ -18,8 +20,11 @@ builder.Services.ConfigureServiceManager();
 builder.Services.ConfigureSqlContext(configuration);
 builder.Services.AddAutoMapper(typeof(Program));
 var app = builder.Build();
-
+var logger = app.Services.GetRequiredService<ILoggerManager>();
 // Configure the HTTP request pipeline.
+
+app.ConfigureExceptionHandler(logger);
+
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
