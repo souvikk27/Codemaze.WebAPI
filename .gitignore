@@ -1,0 +1,27 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/CodeMaze.WebAPI/FileContentIndex/1bba7189-23d9-4d3c-a65b-6582a2012aef.vsidx
+/.vs/CodeMaze.WebAPI/FileContentIndex/2e759b00-b7d5-478c-a072-2f00714b9349.vsidx
+/.vs/CodeMaze.WebAPI/FileContentIndex/45c3bb2c-5873-4e75-a26b-bbfc09006164.vsidx
+/.vs/CodeMaze.WebAPI/FileContentIndex/63fe6cfd-5896-4d10-935b-219f1b72506e.vsidx
+/.vs/CodeMaze.WebAPI/FileContentIndex/82d181a0-eeff-4108-8929-3e5ffd4a8727.vsidx
+/.vs/CodeMaze.WebAPI/FileContentIndex/8dc6f4c8-7894-4937-b8ad-3f04bd4f6429.vsidx
+/.vs/CodeMaze.WebAPI/FileContentIndex/bfbe7528-dc19-4a32-8d87-8a11f0fd471e.vsidx
+*.vsidx
+/CodeMaze.WebAPI/WeatherForecast.cs
+/CodeMaze.WebAPI/Controllers/WeatherForecastController.cs
+/CodeMaze.WebAPI/obj/Debug/net6.0/CodeMaze.WebAPI.assets.cache
+/CodeMaze.WebAPI/obj/Debug/net6.0/CodeMaze.WebAPI.csproj.AssemblyReference.cache
+/CodeMaze.WebAPI/obj/CodeMaze.WebAPI.csproj.nuget.dgspec.json
+/CodeMaze.WebAPI/obj/CodeMaze.WebAPI.csproj.nuget.g.props
+/CodeMaze.WebAPI/obj/project.assets.json
+/CodeMaze.WebAPI/obj/project.nuget.cache
+/LoggerService/obj/LoggerService.csproj.nuget.dgspec.json
+/LoggerService/obj/Debug/net6.0/LoggerService.csproj.AssemblyReference.cache
+/LoggerService/obj/Debug/net6.0/LoggerService.assets.cache
+/Contracts/obj/project.assets.json
+/Contracts/obj/Debug/net6.0/Contracts.csproj.AssemblyReference.cache
+/Contracts/obj/Contracts.csproj.nuget.dgspec.json
+/Service.Contracts/obj/Debug/net6.0/Service.Contracts.csproj.AssemblyReference.cache
